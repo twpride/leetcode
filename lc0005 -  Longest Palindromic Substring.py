@@ -14,16 +14,11 @@ class Solution(object):
         best=1
         ans=s[0]
         for i in range(len(s)):
-            
             cur = ispal(i,i)
-            if len(cur)>best:
-                ans=cur
-                best=len(cur)
-            
+            if len(cur)>len(ans): 
+              ans=cur
             cur = ispal(i+1,i)
-            if len(cur)>best:
-                ans=cur
-                best=len(cur)
-        
+            if len(cur)>len(ans):
+              ans=cur
+
         return ans
-        

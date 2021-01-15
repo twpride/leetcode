@@ -49,7 +49,7 @@ class MedianFinder: # sorting O(n)
       # this algo finds leftmost because when ele==num
       # algo select left half to keep
       # lo=0
-      # hi = len(self.store)  # choice of len-1 will result in left median when even
+      # hi = len(self.store)  # choice len-1 will not work for finding rightmost ele
       # while lo<hi:
       #   mid = lo+(hi-lo)//2
       #   if self.store[mid]<num:
