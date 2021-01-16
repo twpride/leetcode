@@ -47,7 +47,7 @@
 - [ ] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - [ ] Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
 - [x] Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
-- [ ] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+- [x] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - [ ] Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 - [ ] Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - [ ] Clone Graph - https://leetcode.com/problems/clone-graph/
