@@ -48,9 +48,9 @@
 - [ ] Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
 - [x] Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
 - [x] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-- [ ] Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
-- [ ] Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
-- [ ] Clone Graph - https://leetcode.com/problems/clone-graph/
+- [x] Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
+- [x] Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
+- [x] Clone Graph - https://leetcode.com/problems/clone-graph/
 - [ ] Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
 - [ ] Merge Intervals - https://leetcode.com/problems/merge-intervals/
 - [ ] Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
